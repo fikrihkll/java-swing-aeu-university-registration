@@ -12,7 +12,10 @@ package univregist;
 public class FormMenu extends javax.swing.JFrame implements OnDataReceived {
 
     /**
-     * Creates new form FormMenu
+     * CREATED BY FIKRI HAIKAL
+     * C30109200042
+     * C30109200042@aeu.edu.my
+     * fkrihkl@gmail.com
      */
     
     int currentPrice=0;
